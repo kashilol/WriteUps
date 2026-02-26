@@ -32,7 +32,7 @@ Key takeaways - what I learned from the challenge
 
 🗂️ Writeups
 
-SherlockDifficultyCategoryStatusEasyMoney🟢 EasyDFIR / Malware Analysis✅ Solved
+Sherlock- EasyMoney🟢 Mediume DFIR / Malware Analysis✅ Solved
 
 More writeups coming as I work through the platform.
 
